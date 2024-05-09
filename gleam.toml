@@ -1,0 +1,11 @@
+name = "chesster"
+version = "1.0.0"
+description = "A toy chess engine!"
+licences = ["GPL-3.0-only"]
+repository = { type = "github", user = "SpyrosRoum", repo = "chesster" }
+
+[dependencies]
+gleam_stdlib = ">= 0.34.0 and < 2.0.0"
+
+[dev-dependencies]
+gleeunit = ">= 1.0.0 and < 2.0.0"

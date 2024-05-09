@@ -1,0 +1,25 @@
+# chesster
+
+[![Package Version](https://img.shields.io/hexpm/v/chesster)](https://hex.pm/packages/chesster)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/chesster/)
+
+```sh
+gleam add chesster
+```
+```gleam
+import chesster
+
+pub fn main() {
+  // TODO: An example of the project in use
+}
+```
+
+Further documentation can be found at <https://hexdocs.pm/chesster>.
+
+## Development
+
+```sh
+gleam run   # Run the project
+gleam test  # Run the tests
+gleam shell # Run an Erlang shell
+```
